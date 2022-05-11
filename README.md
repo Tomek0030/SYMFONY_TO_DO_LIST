@@ -1,6 +1,8 @@
 Application in Symfony: to-do list app (CRUD)</br>
 Aplikacja w Symfony do zarządzania zadaniami (CRUD)
 
+Wersja symfony- 5
+
 Aplikacja pozwala:
 - dodawać zadania
 - usuwać zadania
